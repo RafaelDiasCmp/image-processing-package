@@ -1,0 +1,13 @@
+README.md
+setup.py
+image_processing-rafael-dias-campos/__init__.py
+image_processing-rafael-dias-campos/processing/__init__.py
+image_processing-rafael-dias-campos/processing/combination.py
+image_processing-rafael-dias-campos/processing/transformation.py
+image_processing-rafael-dias-campos/utils/__init__.py
+image_processing-rafael-dias-campos/utils/io.py
+image_processing-rafael-dias-campos/utils/plot.py
+image_processing_rafael_dias_campos.egg-info/PKG-INFO
+image_processing_rafael_dias_campos.egg-info/SOURCES.txt
+image_processing_rafael_dias_campos.egg-info/dependency_links.txt
+image_processing_rafael_dias_campos.egg-info/top_level.txt
